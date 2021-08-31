@@ -22,5 +22,10 @@ book_list.pop(2)
 print(book_list)
 
 #ambil elemen terakhir
-book_list.pop()
-print(book_list)
+#book_list.pop()
+#print(book_list)
+
+#del book_list[0:-2]
+#for i in range(0, len(book_list)):
+    #print(book_list[i])
+
